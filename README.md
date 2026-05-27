@@ -141,7 +141,7 @@ produtos escolhidos : 2, 3
 
 # Como Executar
 
-## ▶️ Executar todas as instâncias automaticamente
+## Executar todas as instâncias automaticamente
 
 A partir da raiz do projeto:
 
