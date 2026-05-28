@@ -255,3 +255,4 @@ O programa já possui alerta automático para grandes alocações.
 # Autor
 
 Projeto acadêmico desenvolvido para fins educacionais e estudos de algoritmos clássicos de otimização.
+Everton B. da Silva
